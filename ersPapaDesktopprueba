@@ -1,0 +1,16 @@
+[33m3f758cf[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to 3f758cf
+[33m3c5c0c5[m HEAD@{1}: reset: moving to 3c5c0c5
+[33m3c5c0c5[m HEAD@{2}: reset: moving to 3c5c0c5
+[33m3f758cf[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{3}: reset: moving to 3f758cf
+[33m3f758cf[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{4}: reset: moving to 3f758cf
+[33m3f758cf[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{5}: reset: moving to 3f758cf
+[33m3c5c0c5[m HEAD@{6}: reset: moving to 3c5c0c5
+[33m3f758cf[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{7}: reset: moving to 3f758cf
+[33m3f758cf[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{8}: reset: moving to 3f758cf
+[33m3c5c0c5[m HEAD@{9}: Branch: renamed refs/heads/master to refs/heads/main
+[33m3c5c0c5[m HEAD@{11}: checkout: moving from 6003cab7377d4f555cfd2c1bc1967a363c599a6d to master
+[33m6003cab[m HEAD@{12}: commit: agregue h1
+[33m3f758cf[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{13}: checkout: moving from master to 3f758cf
+[33m3c5c0c5[m HEAD@{14}: commit: about.html
+[33m1a1380c[m HEAD@{15}: commit: about.html
+[33m3f758cf[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{16}: commit (initial): index.html
